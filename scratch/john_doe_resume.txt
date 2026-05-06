@@ -1,0 +1,13 @@
+John Doe
+john.doe@example.com
+
+EXPERIENCE
+Software Engineer at Tech Corp
+5 years of experience
+
+Developed scalable microservices using Java and Spring Boot.
+Built interactive frontends using React and Javascript.
+Managed databases with MySQL.
+
+SKILLS
+Java, Spring Boot, React, Javascript, MySQL, Docker, Git.

@@ -112,16 +112,6 @@ npm run dev
 
 ---
 
-## 🔐 Admin Access
-
-| Field | Value |
-|-------|-------|
-| Username | `admin` |
-| Password | `admin123` |
-| Recovery Key | `resume@2026` |
-
-> Access admin login via the 🔒 icon at the bottom-right corner of any page.
-> If you forget credentials, click "Forgot credentials?" and use the recovery key to set new ones.
 
 ---
 
@@ -148,13 +138,10 @@ spring.mail.username=your-email@gmail.com
 spring.mail.password=your-app-password
 ```
 
-> Use a [Gmail App Password](https://myaccount.google.com/apppasswords) for authentication.
+> 
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
